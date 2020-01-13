@@ -1,0 +1,20 @@
+{
+  "name": "boston-housing-dataset",
+  "keywords": [
+    "data",
+    "processing",
+    "dataset",
+    "boston",
+    "regression"
+  ],
+  "version": "0.0.1",
+  "description": "The Boston Housing Dataset, compiled by in Harrison and Rubinfeld in 1978.",
+  "main": "data.json",
+  "repository": "https://github.com/cawfree/boston-housing-dataset",
+  "author": "Alex Thomas (@cawfree) <hello@cawfree.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "husky": "^4.0.7"
+  }
+}
